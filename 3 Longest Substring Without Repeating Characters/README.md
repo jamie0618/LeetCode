@@ -29,10 +29,8 @@ Explanation: The answer is "wke", with the length of 3.
 
              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
-## 2018 09 09
+## v1 2018/09/09
 runtime beat 58.00%
-
-想法:
 
 index 從頭開始，用 while 逐步增長字串長度
 
